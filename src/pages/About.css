@@ -1,0 +1,23 @@
+.about-container {
+    background-color: #1e1e1e;
+    padding: 2rem;
+    border-radius: 12px;
+    color: #f1f1f1;
+    font-family: 'Poppins', sans-serif;
+    box-shadow: 0 0 15px rgba(255, 215, 0, 0.1);
+  }
+  
+  .about-title {
+    color: #ffd700;
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    border-bottom: 2px solid #ffd700;
+    padding-bottom: 0.5rem;
+  }
+  
+  .about-content p {
+    margin-bottom: 0.5rem;
+    font-size: 1rem;
+    line-height: 1.6;
+  }
+  
